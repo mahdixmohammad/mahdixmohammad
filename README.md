@@ -61,7 +61,9 @@ If you are looking to collaborate or get in touch with me, please contact me by 
 ### 📊 Stats
 
 ![Mahdi Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdixmohammad&show_icons=true&theme=gruvbox)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mahdixmohammad&theme=gruvbox&border_radius=4.5)
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdixmohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Streak and Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mahdixmohammad&theme=gruvbox&border_radius=4.5) 
+
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdixmohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" height="200" theme=tokyonight/>
