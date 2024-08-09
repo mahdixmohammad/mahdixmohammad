@@ -26,40 +26,47 @@ If you are looking to collaborate or get in touch with me, please contact me by 
   <a href="https://www.instagram.com/mahdixmohammad/">
     <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>  
+</p>
 
 ---
 
 ### 💻 Programming Languages
+
 ![HTML](https://img.shields.io/badge/html-991f00?style=for-the-badge&logo=html5&logoColor=orange)
 ![SASS](https://img.shields.io/badge/sass-FFD7F6?style=for-the-badge&logo=sass)
-![TypeScript](https://img.shields.io/badge/typescript-C4C4C4.svg?style=for-the-badge&logo=typescript&logoColor=1368B7)
+![TypeScript](https://img.shields.io/badge/typescript-FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=1368B7)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c++-slateblue?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/sql-002e4d?style=for-the-badge&logo=postgresql&logoColor=3670A0)
+
 #
 
 ### 📚 Libraries and Frameworks
-![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/angular-FF0303?style=for-the-badge&logo=angular)
+
+![React](https://img.shields.io/badge/react-23272F?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![Express](https://img.shields.io/badge/express-gray.svg?style=for-the-badge&logo=express)
 ![jQuery](https://img.shields.io/badge/jquery-181C4A?style=for-the-badge&logo=jquery)
+![Tailwind](https://img.shields.io/badge/tailwind-DBEEFF?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-E6D5FF?style=for-the-badge&logo=bootstrap)
+
 #
 
 ### 🛠️ Developer Tools
+
 ![Node](https://img.shields.io/badge/node-12A127?style=for-the-badge&logo=node.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=red)
+![PostgreSQL](https://img.shields.io/badge/postgresql-121C25?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/mongodb-0D272A?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/git-664400.svg?style=for-the-badge&logo=git&logoColor=orange)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-ffffcc.svg?style=for-the-badge&logo=googlechrome&logoColor=red)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-081C38.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=red)
+![Figma](https://img.shields.io/badge/Figma-FED4AD.svg?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/Photoshop-081C38.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+
 #
 
 ### 📊 Stats
 
 ![Mahdi Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdixmohammad&show_icons=true&theme=gruvbox)
 
-![Streak and Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mahdixmohammad&theme=gruvbox&border_radius=4.5) 
+![Streak and Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mahdixmohammad&theme=gruvbox&border_radius=4.5)
 
 ![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdixmohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
