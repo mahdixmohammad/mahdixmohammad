@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
 <p align="center" style="margin-left: 60px; width: fit-content;"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F735&width=435&lines=Welcome+to+my+GitHub+Profile.;McMaster+Computer+Science+Student.;Professional+Programmer.;Stock+Market+and+Forex+Trading." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F735&width=435&lines=Welcome+to+my+GitHub+Profile.;McMaster+Computer+Science+Student.;Experienced+Full-stack+Developer." alt="Typing SVG" /></a>
 </p>
 </div>
 
@@ -44,6 +44,7 @@ If you are looking to collaborate or get in touch with me, please contact me by 
 
 ![React](https://img.shields.io/badge/react-23272F?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/redux-E2CBFF?style=for-the-badge&logo=redux&logoColor=9e83f3)
 ![Express](https://img.shields.io/badge/express-gray.svg?style=for-the-badge&logo=express)
 ![jQuery](https://img.shields.io/badge/jquery-181C4A?style=for-the-badge&logo=jquery)
 ![Tailwind](https://img.shields.io/badge/tailwind-DBEEFF?style=for-the-badge&logo=tailwindcss)
@@ -64,9 +65,6 @@ If you are looking to collaborate or get in touch with me, please contact me by 
 #
 
 ### 📊 Stats
-
-![Mahdi Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdixmohammad&show_icons=true&theme=gruvbox)
-
 ![Streak and Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mahdixmohammad&theme=gruvbox&border_radius=4.5)
 
 ![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdixmohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
