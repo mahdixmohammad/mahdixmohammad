@@ -10,11 +10,9 @@
 
 **`Computer Science Co-op Student (Level III)`**
 
-Based in Ontario, Canada, I am currently an undergraduate student at McMaster University pursuing full-time computer science with a minor in mathematics. I am an experienced full-stack developer across multiple languages, tools, and frameworks, and I have also self-taught myself the art of trading through 2 years of experience. I also have the ability to communicate in multiple languages including English, French, and Arabic. I have massive passion and extreme dedication towards everything that I commit to in my life.
+Currently pursuing a full-time undergraduate degree in Computer Science with a minor in Statistics at McMaster University, my passion for technology is matched by my commitment to continuous learning and skill development. As a dedicated full-stack developer, I have honed my skills across a diverse range of languages, tools, and frameworks, including TypeScript, React, Next.js, Express.js, TailwindCSS, PostgreSQL, and MongoDB. I thrive on tackling challenging projects and am always eager to expand my knowledge and expertise. In addition to my technical abilities, I am fluent in English, French, and Arabic, which allows me to communicate effectively in unique environments.
 
-Outside of work and education, I prioritize my health and fitness by engaging in both physical and mental exercise. For example, I indulge in a variety of sports including soccer and basketball, and I have an enormous amount of passion for working out at the gym. As for mental exercise, I love reading and learning, especially about life philosophies like stoicism.
-
-If you are looking to collaborate or get in touch with me, please contact me by sending me an email or message me through my personal website or LinkedIn account.
+I am driven by a deep passion for my work and a relentless dedication to achieving excellence in everything I undertake. Let’s connect and explore how we can collaborate on innovative projects!
 
 <p>
   <a href="https://mahdixmohammad.com">
@@ -36,7 +34,7 @@ If you are looking to collaborate or get in touch with me, please contact me by 
 ![SASS](https://img.shields.io/badge/sass-FFD7F6?style=for-the-badge&logo=sass)
 ![TypeScript](https://img.shields.io/badge/typescript-FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=1368B7)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c++-slateblue?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/c++-slateblue?style=for-the-badge&logo=c%2B%2B)
 
 #
 
@@ -65,6 +63,7 @@ If you are looking to collaborate or get in touch with me, please contact me by 
 #
 
 ### 📊 Stats
+
 ![Streak and Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mahdixmohammad&theme=gruvbox&border_radius=4.5)
 
 ![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahdixmohammad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
