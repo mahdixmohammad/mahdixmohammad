@@ -1,18 +1,11 @@
 <div style="display: flex; flex-direction: column; align-items: center; width: 100%; height: fit-content; text-align: center;">
 <h1 align="center">
-  Hello! My name is Mahdi Mohammad...
+  Hello, I'm Mahdi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
 </h1>
-<p align="center" style="margin-left: 60px; width: fit-content;"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F735&width=435&lines=Welcome+to+my+GitHub+Profile.;McMaster+Computer+Science+Student.;Full-Stack+Engineer" alt="Typing SVG" /></a>
-</p>
 </div>
 
-**`Computer Science Co-op Student (Level IV)`**
-
-Currently pursuing a full-time undergraduate degree in Computer Science with a minor in Statistics at McMaster University, my passion for technology is matched by my commitment to continuous learning and skill development. As a dedicated full-stack developer, I have honed my skills across a diverse range of languages, tools, and frameworks, including TypeScript, React, Next.js, Express.js, TailwindCSS, PostgreSQL, and MongoDB. I thrive on tackling challenging projects and am always eager to expand my knowledge and expertise. In addition to my technical abilities, I am fluent in English, French, and Arabic, which allows me to communicate effectively in unique environments.
-
-I am driven by a deep passion for my work and a relentless dedication to achieving excellence in everything I undertake. Let’s connect and explore how we can collaborate on innovative projects!
+Passionate about AI and machine learning, with a focus on integrating intelligent systems into real-world applications and enhancing user experiences.
 
 <p>
   <a href="https://mahdixmohammad.com">
